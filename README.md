@@ -9,7 +9,7 @@ INFO
 - All assets and codes used were made by me, except the background image, cursor and music.
 - To run the game you can simply download the available release or clone the repository with: _`git clone https://github.com/AllisonJunior/Minecraft-2D.git`_
 - This project was made using _`java 20.0.1 2023-04-18`_ and the free drawing software _`Piskel`_, for a college project in the subject of object-oriented programming.
-- Details: The game does not have a menu system (similar to Terraria or the original Minecraft), it does not have terrain generation (where the total map size is 80x48), and finally it does not have a perfect collision. Either way, it's a good project for those who are working with Java for the first time
+- Details: The game does not have a menu system (similar to Terraria or the original Minecraft), it does not have terrain generation (where the total map size is 80x48), and finally it does not have a perfect collision. Either way, it's a good project for someone who worked with Java for the first time.
 
 <br>
 
